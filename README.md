@@ -54,6 +54,6 @@
 
 <h2>📫 Contact</h2>
 <p>
-  <a href="#">Portfolio (coming soon)</a><br>
-  <a href="mailto:your-email@example.com">your-email@example.com</a>
+  <a href="#"></a><br>
+  <a href="mailto:tharindusenanayake134@gmail.com">tharindusenanayake134@gmail.com</a>
 </p>
