@@ -31,7 +31,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Light.svg" width="40" height="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="40" height="40"/>
    &nbsp;&nbsp;&nbsp;&nbsp;
@@ -59,6 +59,8 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ubuntu-Dark.svg" width="40" height="40"/>
@@ -73,8 +75,6 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Illustrator.svg" width="40" height="40"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Blender-Light.svg" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
