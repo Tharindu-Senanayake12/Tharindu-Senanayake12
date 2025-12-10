@@ -70,7 +70,12 @@
 
 <h3>Design and Creative</h3>
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
+  
+  <img src="https://images.seeklogo.com/logo-png/15/1/zbrush-logo-png_seeklogo-155828.png" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Blender-Light.svg" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://5.imimg.com/data5/SELLER/Default/2023/5/305980319/VD/FV/FA/4911957/autodesk-3ds-max-500x500.jpg" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
