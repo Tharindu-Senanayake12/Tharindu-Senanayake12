@@ -21,7 +21,9 @@
 
 
 <p align="left">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" width="40" height="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -31,7 +33,6 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="40" height="40"/>
    &nbsp;&nbsp;&nbsp;&nbsp;
-
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" width="40" height="40"/>
@@ -52,10 +53,14 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SciKitLearn-Light.svg" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arduino.svg" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ubuntu-Dark.svg" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
+</p>
 
 
 
@@ -86,17 +91,32 @@
 
 <h3>Design and Creative</h3>
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="45" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Blender-Light.svg" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Illustrator.svg" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Blender-Light.svg" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  
+ 
+  
 </p>
 
 <h3>Game Engines</h3>
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="45" />
+  
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/UnrealEngine.svg" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/CryEngine_Nex-Gen%284th_Generation%29.png" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="45" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Godot-Light.svg" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://repository-images.githubusercontent.com/186906951/35cdc380-e176-11eb-9c28-bbaefddafb98" width="45" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <hr>
