@@ -19,6 +19,47 @@
 
 <h2>🛠 Skills</h2>
 
+
+<p align="left">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Light.svg" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="40" height="40"/>
+   &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Light.svg" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Light.svg" width="40" height="40" alt="Next.js" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Light.svg" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Matlab-Dark.svg" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SciKitLearn-Light.svg" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+
+
+
+
 <h3>Languages, Frameworks and Tools</h3>
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 30px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
@@ -40,6 +81,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" width="45" />
 </p>
+
+
 
 <h3>Design and Creative</h3>
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
