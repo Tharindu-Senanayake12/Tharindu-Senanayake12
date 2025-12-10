@@ -9,9 +9,9 @@
 
 <h2>🚀 About Me</h2>
 <ul>
-  <li>Third year Computer Science undergraduate at Wayamba University of Sri Lanka</li>
-  <li>Focused on software engineering, machine learning and interactive systems</li>
-  <li>Experience in IoT solutions, computer vision, distributed systems and backend development</li>
+  <li>Computer Science undergraduate with a passion for building practical and innovative tech solutions</li>
+  <li>Interested in software engineering, machine learning, computer vision and intelligent interactive systems</li>
+  <li>Exploring IoT development, distributed computing and real world applications of AI</li>
   <li>Active designer and video editor contributing to multiple university clubs</li>
 </ul>
 
