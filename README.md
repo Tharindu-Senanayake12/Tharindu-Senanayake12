@@ -50,9 +50,9 @@
 <h3>Game Engines</h3>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="50" alt="Unreal Engine"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cryengine/cryengine-original.svg" width="50" alt="CryEngine"/>
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cryengine/cryengine-original.svg](https://upload.wikimedia.org/wikipedia/commons/8/8d/CryEngine_Nex-Gen%284th_Generation%29.png)" width="50" alt="CryEngine"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="50" alt="Godot"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gdevelop/gdevelop-original.svg" width="50" alt="GDevelop"/>
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gdevelop/gdevelop-original.svg](https://repository-images.githubusercontent.com/186906951/35cdc380-e176-11eb-9c28-bbaefddafb98)" width="50" alt="GDevelop"/>
 </p>
 
 <hr>
