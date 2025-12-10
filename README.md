@@ -9,6 +9,10 @@
 
 <h2>🚀 About Me</h2>
 <ul>
+  <li>Third year Computer Science undergraduate at Wayamba University of Sri Lanka</li>
+  <li>Focused on software engineering, machine learning and interactive systems</li>
+  <li>Experience in IoT solutions, computer vision, distributed systems and backend development</li>
+  <li>Active designer and video editor contributing to multiple university clubs</li>
 </ul>
 
 <hr>
@@ -16,7 +20,6 @@
 <h2>🛠 Skills</h2>
 
 <h3>Languages, Frameworks and Tools</h3>
-
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" />
@@ -38,14 +41,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" width="45" />
 </p>
 
-
 <h3>Design and Creative</h3>
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="45" />
 </p>
-
 
 <h3>Game Engines</h3>
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
@@ -54,7 +55,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="45" />
   <img src="https://repository-images.githubusercontent.com/186906951/35cdc380-e176-11eb-9c28-bbaefddafb98" width="45" />
 </p>
-
 
 <hr>
 
