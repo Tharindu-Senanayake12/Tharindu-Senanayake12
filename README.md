@@ -69,13 +69,12 @@
 </p>
 
 <h3>Design and Creative</h3>
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
-  
-  <img src="https://static.vecteezy.com/system/resources/thumbnails/057/355/790/small_2x/zbrush-logo-on-transparent-background-free-png.png" width="40" height="40"/>
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 0px;">
+  <img src="https://logoeps.com/wp-content/uploads/2012/11/zbrush-vector-logo.png"  width="40" height="40">
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Blender-Light.svg" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://images.seeklogo.com/logo-png/48/1/3ds-max-logo-png_seeklogo-482396.png" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/3ds-max-full.svg" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -84,8 +83,6 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
   
- 
-  
 </p>
 
 <h3>Game Engines</h3>
@@ -93,7 +90,7 @@
   
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/UnrealEngine.svg" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/CryEngine_Nex-Gen%284th_Generation%29.png" width="45" />
+  <img src="https://logodix.com/logo/1821947.png" width="40" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Godot-Light.svg" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
