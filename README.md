@@ -51,9 +51,14 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/OpenCV-Dark.svg" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Matlab-Dark.svg" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SciKitLearn-Light.svg" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arduino.svg" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -76,9 +81,11 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/3ds-max-full.svg" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" width="40" height="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Premiere.svg" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Illustrator.svg" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
