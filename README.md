@@ -110,7 +110,7 @@
 <h2>📌 Current Projects</h2>
 <ul>
   <li>Human pose estimation system Model</li>
-  <li>Indoor wheelchair navigation system powered by SLAM</li>
+  <li>Airport Indoor wheelchair navigation system powered by SLAM</li>
   <li>3D wind turbine simulation</li>
   <li>Python platformer game</li>
 </ul>
