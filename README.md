@@ -15,6 +15,16 @@
   <li>Active designer and video editor contributing to multiple university clubs,</li>
 </ul>
 
+
+<hr>
+
+<p align="center">
+  🌐 <b>Portfolio Website</b><br><br>
+  <a href="https://tharindu-senanayake12.github.io/" target="_blank">
+    tharindu-senanayake12.github.io
+  </a>
+</p>
+
 <hr>
 
 <h2>🛠 Skills</h2>
