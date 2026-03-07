@@ -5,7 +5,7 @@
   Passionate about software engineering, AI, IoT and creative tech.
 </p>
 
-<hr>
+
 
 <h2>🚀 About Me</h2>
 <ul>
@@ -16,16 +16,21 @@
 </ul>
 
 
-<hr>
+
+
+<h2>🌐 Portfolio</h2>
 
 <p align="center">
-  🌐 <b>Portfolio Website</b><br><br>
+  Explore my projects, creative work, and development journey.
+</p>
+
+<p align="center">
   <a href="https://tharindu-senanayake12.github.io/" target="_blank">
-    tharindu-senanayake12.github.io
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
 
-<hr>
+
 
 <h2>🛠 Skills</h2>
 
@@ -115,7 +120,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<hr>
+
 
 <h2>📌 Current Projects</h2>
 <ul>
