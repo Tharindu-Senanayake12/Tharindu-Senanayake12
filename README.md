@@ -1,4 +1,10 @@
-<h1 align="center">👋 Hi there! I'm Tharindu Senanayake</h1>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi there! I'm Tharindu Senanayake</h1>
+
+<div align="center">
+    <img  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3200&pause=900&color=c75600&center=true&vCenter=true&width=800&lines=Computer+Science+Undergraduate;Full+Stack+Developer;Creative+Designer+%7C+3D+Artist;IoT+%7C+Game+Developer;Building+Technology+With+Creativity" alt="Typing SVG" />
+</div>
+  
+
 
 <p align="center">
   <em>Computer Science undergraduate</em><br>
@@ -26,7 +32,7 @@
 
 <p align="center">
   <a href="https://tharindu-senanayake12.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-c75600?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
 
